@@ -1,0 +1,2 @@
+{ "keys": ["ctrl+shift+s"], "command": "auto_save" },
+{ "keys": ["ctrl+tab"], "command": "next_view" }

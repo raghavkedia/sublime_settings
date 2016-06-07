@@ -1,0 +1,16 @@
+
+    {
+        "python_interpreter": "/Users/raghav.kedia/.virtualenvs/website/bin/python",
+        "python_package_paths":
+        [
+            "/usr/local/lib/python2.7/site-packages",
+            "/Users/raghav.kedia/.virtualenvs/website/lib/python2.7/",
+            "/Users/raghav.kedia/src/website"
+        ],
+        "anaconda_linting": true,
+        "anaconda_linting_behaviour": "always",
+        "pep257": false,
+        "pep8_max_line_length": 120,
+        "pep8_ignore": ["E111", "E128", "E226", "E41", "E261", "C901"],
+        "use_pylint": false,
+    }

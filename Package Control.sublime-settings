@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"auto-save",
+		"GitGutter",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
+		"Materialize-White-Panels",
+		"Package Control",
+		"Pylinter",
+		"Python Breakpoints",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"Terminal",
+		"Theme - Soda"
+	]
+}
